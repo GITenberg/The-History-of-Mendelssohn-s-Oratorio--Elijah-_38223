@@ -1,0 +1,36 @@
+_repo: The-History-of-Mendelssohn-s-Oratorio--Elijah-_38223
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Grove, George
+    alias: Grove, Sir George
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '42192'
+    url: http://www.gutenberg.org/2009/agents/42192
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, F. G. (Frederick George)
+    alias: Edwards, Frederick George
+    birthdate: 1853
+    deathdate: 1909
+    gutenberg_agent_id: '39319'
+    url: http://www.gutenberg.org/2009/agents/39319
+description: ''
+gutenberg_issued: '2011-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38223'
+  lccn: '2013561127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Mendelssohn-Bartholdy, Felix, 1809-1847. Elias'
+title: The History of Mendelssohn's Oratorio 'Elijah'
+url: http://www.gutenberg.org/ebooks/38223
